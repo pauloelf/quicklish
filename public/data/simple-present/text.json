@@ -1,0 +1,36 @@
+{
+  "title": "Present Simple (Presente Simples)",
+  "summary": "O Present Simple é usado para falar sobre hábitos, rotinas diárias, fatos universais e verdades permanentes.",
+  "structure": {
+    "affirmative": "I/You/We/They + verbo base | He/She/It + verbo + s/es",
+    "negative": "I/You/We/They + do not (don't) + verbo base | He/She/It + does not (doesn't) + verbo base",
+    "interrogative": "Do + I/you/we/they + verbo base? | Does + he/she/it + verbo base?"
+  },
+  "usage": [
+    "Para falar sobre hábitos e rotinas: I work every day. (Eu trabalho todos os dias.)",
+    "Para expressar fatos universais: The sun rises in the east. (O sol nasce no leste.)",
+    "Para descrever situações permanentes: She lives in Brazil. (Ela mora no Brasil.)"
+  ],
+  "examples": [
+    {
+      "sentence": "He plays football on Sundays.",
+      "translation": "Ele joga futebol aos domingos."
+    },
+    {
+      "sentence": "We don't like broccoli.",
+      "translation": "Nós não gostamos de brócolis."
+    },
+    {
+      "sentence": "Does she work here?",
+      "translation": "Ela trabalha aqui?"
+    },
+    {
+      "sentence": "They go to school every day.",
+      "translation": "Eles vão para a escola todos os dias."
+    },
+    {
+      "sentence": "I drink coffee in the morning.",
+      "translation": "Eu tomo café de manhã."
+    }
+  ]
+}

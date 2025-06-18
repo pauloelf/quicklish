@@ -1,0 +1,36 @@
+{
+  "title": "Articles (A / An / The)",
+  "summary": "Artigos são palavras usadas antes de substantivos. Em inglês, usamos 'a' ou 'an' para coisas indefinidas, e 'the' para coisas específicas ou já conhecidas.",
+  "structure": {
+    "a": "Usado antes de palavras que começam com som de consoante. Ex: a car, a dog, a banana.",
+    "an": "Usado antes de palavras que começam com som de vogal. Ex: an apple, an orange, an hour.",
+    "the": "Usado para coisas específicas ou únicas. Ex: the sun, the book on the table."
+  },
+  "usage": [
+    "Use 'a' e 'an' quando estiver falando de algo pela primeira vez ou de algo não específico: I saw a cat. (Eu vi um gato.)",
+    "Use 'the' quando a pessoa já sabe do que você está falando ou quando há apenas um daquele item: The moon is bright. (A lua está brilhante.)",
+    "A escolha entre 'a' e 'an' depende do som, não da letra: an hour (som de vogal), a university (som de consoante)."
+  ],
+  "examples": [
+    {
+      "sentence": "I have a pencil.",
+      "translation": "Eu tenho um lápis."
+    },
+    {
+      "sentence": "She ate an apple.",
+      "translation": "Ela comeu uma maçã."
+    },
+    {
+      "sentence": "The dog is barking.",
+      "translation": "O cachorro está latindo."
+    },
+    {
+      "sentence": "We visited a museum.",
+      "translation": "Nós visitamos um museu."
+    },
+    {
+      "sentence": "The sun rises in the east.",
+      "translation": "O sol nasce no leste."
+    }
+  ]
+}

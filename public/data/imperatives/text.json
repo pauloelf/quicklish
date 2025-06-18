@@ -1,0 +1,35 @@
+{
+  "title": "Imperatives (Imperativos)",
+  "summary": "Os imperativos são usados para dar ordens, instruções, conselhos ou pedidos diretos em inglês.",
+  "structure": {
+    "forma": "O verbo no imperativo é usado sem o sujeito, diretamente: 'Sit down!' (Sente-se!).",
+    "forma negativa": "Para negar, usamos 'Don’t' + verbo: 'Don’t run!' (Não corra!)."
+  },
+  "usage": [
+    "Usados para dar ordens diretas: 'Stop!' (Pare!).",
+    "Para dar instruções: 'Open the door.' (Abra a porta.)",
+    "Para fazer pedidos educados: 'Please, be quiet.' (Por favor, fique quieto.)"
+  ],
+  "examples": [
+    {
+      "sentence": "Sit down.",
+      "translation": "Sente-se."
+    },
+    {
+      "sentence": "Don’t touch that.",
+      "translation": "Não toque nisso."
+    },
+    {
+      "sentence": "Please, open the window.",
+      "translation": "Por favor, abra a janela."
+    },
+    {
+      "sentence": "Stop talking.",
+      "translation": "Pare de falar."
+    },
+    {
+      "sentence": "Be careful!",
+      "translation": "Tenha cuidado!"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "quiz": [
+    {
+      "question": "Como se diz 'mãe' em inglês?",
+      "options": [
+        "Mother",
+        "Father",
+        "Brother"
+      ],
+      "answer": "Mother"
+    },
+    {
+      "question": "Traduza: 'Eu tenho uma irmã.'",
+      "options": [
+        "I have a sister.",
+        "I have a brother.",
+        "I have a cousin."
+      ],
+      "answer": "I have a sister."
+    },
+    {
+      "question": "Quem é 'grandfather'?",
+      "options": [
+        "Tio",
+        "Avô",
+        "Primo"
+      ],
+      "answer": "Avô"
+    },
+    {
+      "question": "Complete: 'My ___ is a teacher.' (pai)",
+      "options": [
+        "father",
+        "brother",
+        "uncle"
+      ],
+      "answer": "father"
+    },
+    {
+      "question": "Como se diz 'tia' em inglês?",
+      "options": [
+        "Aunt",
+        "Cousin",
+        "Sister"
+      ],
+      "answer": "Aunt"
+    },
+    {
+      "question": "Traduza: 'Ela tem dois primos.'",
+      "options": [
+        "She has two cousins.",
+        "She has two brothers.",
+        "She has two aunts."
+      ],
+      "answer": "She has two cousins."
+    },
+    {
+      "question": "Qual é o significado de 'son'?",
+      "options": [
+        "Filho",
+        "Tio",
+        "Irmão"
+      ],
+      "answer": "Filho"
+    },
+    {
+      "question": "Complete: 'My ___ is very kind.' (avó)",
+      "options": [
+        "grandmother",
+        "mother",
+        "sister"
+      ],
+      "answer": "grandmother"
+    },
+    {
+      "question": "Quem é 'brother'?",
+      "options": [
+        "Primo",
+        "Irmão",
+        "Filho"
+      ],
+      "answer": "Irmão"
+    },
+    {
+      "question": "Traduza: 'Nosso tio é engraçado.'",
+      "options": [
+        "Our uncle is funny.",
+        "Our cousin is funny.",
+        "Our grandfather is funny."
+      ],
+      "answer": "Our uncle is funny."
+    }
+  ]
+}

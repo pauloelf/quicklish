@@ -1,0 +1,42 @@
+{
+  "title": "Possessive Adjectives (Adjetivos Possessivos)",
+  "summary": "Adjetivos possessivos são usados para mostrar posse ou pertencimento. Eles vêm antes de um substantivo para indicar a quem algo pertence.",
+  "structure": {
+    "list": {
+      "I": "my",
+      "you": "your",
+      "he": "his",
+      "she": "her",
+      "it": "its",
+      "we": "our",
+      "they": "their"
+    }
+  },
+  "usage": [
+    "Antes de substantivos para indicar posse: This is my book. (Este é meu livro.)",
+    "Eles mudam de acordo com o dono, não com o objeto: Her car (o carro dela), mesmo se 'carro' for masculino ou feminino em português.",
+    "Sempre acompanham um substantivo: We love our dog. (Nós amamos nosso cachorro.)"
+  ],
+  "examples": [
+    {
+      "sentence": "This is my phone.",
+      "translation": "Este é meu telefone."
+    },
+    {
+      "sentence": "That is her house.",
+      "translation": "Aquela é a casa dela."
+    },
+    {
+      "sentence": "Our teacher is very nice.",
+      "translation": "Nosso professor é muito legal."
+    },
+    {
+      "sentence": "Their car is new.",
+      "translation": "O carro deles é novo."
+    },
+    {
+      "sentence": "His name is John.",
+      "translation": "O nome dele é John."
+    }
+  ]
+}

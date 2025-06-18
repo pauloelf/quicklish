@@ -1,0 +1,94 @@
+{
+  "quiz": [
+    {
+      "question": "Traduza: 'O celular está na mesa.'",
+      "options": [
+        "The phone is under the table.",
+        "The phone is on the table.",
+        "The phone is behind the table."
+      ],
+      "answer": "The phone is on the table."
+    },
+    {
+      "question": "Complete: 'The shoes are ___ the bed.' (debaixo)",
+      "options": [
+        "on",
+        "under",
+        "next to"
+      ],
+      "answer": "under"
+    },
+    {
+      "question": "Qual preposição significa 'entre' duas coisas?",
+      "options": [
+        "behind",
+        "between",
+        "in front of"
+      ],
+      "answer": "between"
+    },
+    {
+      "question": "Complete: 'The supermarket is ___ the bakery and the bank.'",
+      "options": [
+        "between",
+        "under",
+        "on"
+      ],
+      "answer": "between"
+    },
+    {
+      "question": "Traduza: 'O carro está atrás da casa.'",
+      "options": [
+        "The car is next to the house.",
+        "The car is behind the house.",
+        "The car is in front of the house."
+      ],
+      "answer": "The car is behind the house."
+    },
+    {
+      "question": "Qual está correta?",
+      "options": [
+        "The book is in the table.",
+        "The book is on the table.",
+        "The book is between the table."
+      ],
+      "answer": "The book is on the table."
+    },
+    {
+      "question": "Complete: 'The teacher is ___ the board.' (na frente de)",
+      "options": [
+        "next to",
+        "under",
+        "in front of"
+      ],
+      "answer": "in front of"
+    },
+    {
+      "question": "O que significa 'next to'?",
+      "options": [
+        "Em cima de",
+        "Ao lado de",
+        "Debaixo de"
+      ],
+      "answer": "Ao lado de"
+    },
+    {
+      "question": "Traduza: 'O gato está dentro da caixa.'",
+      "options": [
+        "The cat is in the box.",
+        "The cat is on the box.",
+        "The cat is behind the box."
+      ],
+      "answer": "The cat is in the box."
+    },
+    {
+      "question": "Complete: 'The picture is ___ the wall.'",
+      "options": [
+        "on",
+        "in",
+        "under"
+      ],
+      "answer": "on"
+    }
+  ]
+}

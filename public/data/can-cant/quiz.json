@@ -1,0 +1,94 @@
+{
+  "quiz": [
+    {
+      "question": "Complete: 'I ___ swim very well.'",
+      "options": [
+        "can",
+        "can’t",
+        "do"
+      ],
+      "answer": "can"
+    },
+    {
+      "question": "Traduza: 'Ela não pode vir hoje.'",
+      "options": [
+        "She can come today.",
+        "She can’t come today.",
+        "She does come today."
+      ],
+      "answer": "She can’t come today."
+    },
+    {
+      "question": "Como pedir permissão em inglês?",
+      "options": [
+        "Can I go out?",
+        "I can go out.",
+        "Can you go out?"
+      ],
+      "answer": "Can I go out?"
+    },
+    {
+      "question": "Complete: 'They ___ play the guitar.'",
+      "options": [
+        "can",
+        "can’t",
+        "do"
+      ],
+      "answer": "can"
+    },
+    {
+      "question": "O que significa 'can’t'?",
+      "options": [
+        "Habilidade",
+        "Impossibilidade ou proibição",
+        "Permissão"
+      ],
+      "answer": "Impossibilidade ou proibição"
+    },
+    {
+      "question": "Qual está correta?",
+      "options": [
+        "Can you speak English?",
+        "Can you speaks English?",
+        "Can you speaking English?"
+      ],
+      "answer": "Can you speak English?"
+    },
+    {
+      "question": "Complete: 'He ___ drive a car.'",
+      "options": [
+        "can",
+        "can’t",
+        "does"
+      ],
+      "answer": "can"
+    },
+    {
+      "question": "Traduza: 'Nós não podemos entrar aqui.'",
+      "options": [
+        "We can’t enter here.",
+        "We can enter here.",
+        "We do enter here."
+      ],
+      "answer": "We can’t enter here."
+    },
+    {
+      "question": "Como perguntar sobre habilidade?",
+      "options": [
+        "Can you dance?",
+        "You can dance?",
+        "Can you dances?"
+      ],
+      "answer": "Can you dance?"
+    },
+    {
+      "question": "Complete: 'I ___ understand the question.'",
+      "options": [
+        "can",
+        "can’t",
+        "do"
+      ],
+      "answer": "can"
+    }
+  ]
+}

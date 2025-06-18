@@ -1,0 +1,94 @@
+{
+  "quiz": [
+    {
+      "question": "Qual a forma correta: 'Ele é estudante'?",
+      "options": [
+        "He is student",
+        "He is a student",
+        "He are a student"
+      ],
+      "answer": "He is a student"
+    },
+    {
+      "question": "Como se diz: 'Nós estamos em casa'?",
+      "options": [
+        "We is at home",
+        "We are home",
+        "We are at home"
+      ],
+      "answer": "We are at home"
+    },
+    {
+      "question": "Complete: 'They ___ happy.'",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer": "are"
+    },
+    {
+      "question": "Forma negativa de 'She is sad':",
+      "options": [
+        "She not is sad",
+        "She isn't sad",
+        "She don't is sad"
+      ],
+      "answer": "She isn't sad"
+    },
+    {
+      "question": "Como perguntar: 'Você está bem?'",
+      "options": [
+        "Are you good?",
+        "Are you fine?",
+        "Are you okay?"
+      ],
+      "answer": "Are you okay?"
+    },
+    {
+      "question": "Qual é a forma correta para 'Eu sou alto'?",
+      "options": [
+        "I am tall",
+        "I are tall",
+        "I is tall"
+      ],
+      "answer": "I am tall"
+    },
+    {
+      "question": "Complete: 'He ___ not at school.'",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer": "is"
+    },
+    {
+      "question": "Traduza: 'Nós somos amigos.'",
+      "options": [
+        "We are friends",
+        "We is friends",
+        "We be friends"
+      ],
+      "answer": "We are friends"
+    },
+    {
+      "question": "Como negar: 'Eu estou doente'?",
+      "options": [
+        "I not am sick",
+        "I'm not sick",
+        "I amn't sick"
+      ],
+      "answer": "I'm not sick"
+    },
+    {
+      "question": "Qual dessas perguntas está correta?",
+      "options": [
+        "Are she happy?",
+        "Is she happy?",
+        "She is happy?"
+      ],
+      "answer": "Is she happy?"
+    }
+  ]
+}

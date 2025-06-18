@@ -1,0 +1,94 @@
+{
+  "quiz": [
+    {
+      "question": "Qual artigo está correto: '___ orange'?",
+      "options": [
+        "A",
+        "An",
+        "The"
+      ],
+      "answer": "An"
+    },
+    {
+      "question": "Traduza: 'Eu vi um cachorro.'",
+      "options": [
+        "I saw the dog.",
+        "I saw a dog.",
+        "I saw an dog."
+      ],
+      "answer": "I saw a dog."
+    },
+    {
+      "question": "Complete: '___ moon is beautiful tonight.'",
+      "options": [
+        "A",
+        "An",
+        "The"
+      ],
+      "answer": "The"
+    },
+    {
+      "question": "Qual está correta?",
+      "options": [
+        "An university",
+        "A university",
+        "A hour"
+      ],
+      "answer": "A university"
+    },
+    {
+      "question": "Complete: 'She is eating ___ banana.'",
+      "options": [
+        "an",
+        "a",
+        "the"
+      ],
+      "answer": "a"
+    },
+    {
+      "question": "Quando usamos 'the'?",
+      "options": [
+        "Quando estamos falando de algo aleatório",
+        "Quando estamos falando de algo específico",
+        "Sempre que o substantivo começa com vogal"
+      ],
+      "answer": "Quando estamos falando de algo específico"
+    },
+    {
+      "question": "Qual frase está correta?",
+      "options": [
+        "He bought an book.",
+        "He bought the book.",
+        "He bought a apple."
+      ],
+      "answer": "He bought the book."
+    },
+    {
+      "question": "Complete: 'It’s ___ honor to meet you.'",
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "answer": "an"
+    },
+    {
+      "question": "Traduza: 'Ela viu uma estrela.'",
+      "options": [
+        "She saw the star.",
+        "She saw a star.",
+        "She saw an star."
+      ],
+      "answer": "She saw a star."
+    },
+    {
+      "question": "Complete: '___ sun is hot today.'",
+      "options": [
+        "A",
+        "An",
+        "The"
+      ],
+      "answer": "The"
+    }
+  ]
+}

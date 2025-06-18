@@ -1,0 +1,94 @@
+{
+  "quiz": [
+    {
+      "question": "Qual é a forma correta do imperativo para 'sentar'?",
+      "options": [
+        "You sit down.",
+        "Sit down.",
+        "Sits down."
+      ],
+      "answer": "Sit down."
+    },
+    {
+      "question": "Como negar um imperativo?",
+      "options": [
+        "Don’t + verbo",
+        "No + verbo",
+        "Not + verbo"
+      ],
+      "answer": "Don’t + verbo"
+    },
+    {
+      "question": "Complete: '___ touch the stove!'",
+      "options": [
+        "Don’t",
+        "No",
+        "Not"
+      ],
+      "answer": "Don’t"
+    },
+    {
+      "question": "Traduza: 'Por favor, feche a porta.'",
+      "options": [
+        "Please, close the door.",
+        "Please, closes the door.",
+        "Please, closing the door."
+      ],
+      "answer": "Please, close the door."
+    },
+    {
+      "question": "Qual frase é um imperativo?",
+      "options": [
+        "You open the window.",
+        "Open the window.",
+        "Opens the window."
+      ],
+      "answer": "Open the window."
+    },
+    {
+      "question": "Complete a negativa: '___ run!'",
+      "options": [
+        "Don’t",
+        "No",
+        "Not"
+      ],
+      "answer": "Don’t"
+    },
+    {
+      "question": "Qual destas expressa um pedido educado?",
+      "options": [
+        "Please, be quiet.",
+        "Be quiet.",
+        "Quiet please."
+      ],
+      "answer": "Please, be quiet."
+    },
+    {
+      "question": "Traduza: 'Pare de falar!'",
+      "options": [
+        "Stop talk!",
+        "Stop talking!",
+        "Stop to talk!"
+      ],
+      "answer": "Stop talking!"
+    },
+    {
+      "question": "Qual é o sujeito usado nos imperativos?",
+      "options": [
+        "I",
+        "You (implícito)",
+        "He/She"
+      ],
+      "answer": "You (implícito)"
+    },
+    {
+      "question": "Complete: '___ careful!'",
+      "options": [
+        "Be",
+        "Is",
+        "Are"
+      ],
+      "answer": "Be"
+    }
+  ]
+}

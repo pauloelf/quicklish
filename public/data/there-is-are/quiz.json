@@ -1,0 +1,94 @@
+{
+  "quiz": [
+    {
+      "question": "Qual a forma correta para 'Há um carro na rua'?",
+      "options": [
+        "There is a car on the street",
+        "There are a car on the street",
+        "There be a car on the street"
+      ],
+      "answer": "There is a car on the street"
+    },
+    {
+      "question": "Complete: '___ five people in the room.'",
+      "options": [
+        "There is",
+        "There are",
+        "There"
+      ],
+      "answer": "There are"
+    },
+    {
+      "question": "Qual a forma negativa de 'There is a cat here'?",
+      "options": [
+        "There not is a cat",
+        "There isn't a cat",
+        "There no cat"
+      ],
+      "answer": "There isn't a cat"
+    },
+    {
+      "question": "Traduza: 'Há muitos livros na estante.'",
+      "options": [
+        "There are many books on the shelf",
+        "There is many books on the shelf",
+        "There be many books on the shelf"
+      ],
+      "answer": "There are many books on the shelf"
+    },
+    {
+      "question": "Como perguntar: 'Existe um restaurante aqui perto?'",
+      "options": [
+        "There is a restaurant near?",
+        "Is there a restaurant nearby?",
+        "Are there a restaurant near?"
+      ],
+      "answer": "Is there a restaurant nearby?"
+    },
+    {
+      "question": "Complete: '___ a problem with my computer.'",
+      "options": [
+        "There is",
+        "There are",
+        "There has"
+      ],
+      "answer": "There is"
+    },
+    {
+      "question": "Qual está correta?",
+      "options": [
+        "Are there a dog?",
+        "Is there a dog?",
+        "Is there dogs?"
+      ],
+      "answer": "Is there a dog?"
+    },
+    {
+      "question": "Complete: 'There ___ not any oranges left.'",
+      "options": [
+        "is",
+        "are",
+        "aren't"
+      ],
+      "answer": "are"
+    },
+    {
+      "question": "Traduza: 'Não há pessoas na casa.'",
+      "options": [
+        "There aren’t people in the house",
+        "There not people in the house",
+        "There isn’t people in the house"
+      ],
+      "answer": "There aren’t people in the house"
+    },
+    {
+      "question": "Como se diz: 'Há uma cadeira aqui'?",
+      "options": [
+        "There is a chair here",
+        "There are a chair here",
+        "There has a chair here"
+      ],
+      "answer": "There is a chair here"
+    }
+  ]
+}

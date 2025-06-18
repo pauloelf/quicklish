@@ -1,0 +1,44 @@
+{
+  "title": "Family Vocabulary (Vocabulário da Família)",
+  "summary": "Este tópico apresenta palavras básicas para falar sobre membros da família em inglês, ajudando a descrever relações familiares comuns.",
+  "structure": {
+    "father": "pai",
+    "mother": "mãe",
+    "brother": "irmão",
+    "sister": "irmã",
+    "grandfather": "avô",
+    "grandmother": "avó",
+    "uncle": "tio",
+    "aunt": "tia",
+    "cousin": "primo/prima",
+    "son": "filho",
+    "daughter": "filha"
+  },
+  "usage": [
+    "Use essas palavras para falar sobre sua família ou perguntar sobre a família de alguém.",
+    "Elas são frequentemente usadas em apresentações e conversas cotidianas.",
+    "Você pode usar possessivos para indicar a quem pertence cada membro: 'My mother is kind.' (Minha mãe é gentil.)"
+  ],
+  "examples": [
+    {
+      "sentence": "My father is a doctor.",
+      "translation": "Meu pai é médico."
+    },
+    {
+      "sentence": "She has two brothers.",
+      "translation": "Ela tem dois irmãos."
+    },
+    {
+      "sentence": "His grandmother lives with them.",
+      "translation": "A avó dele mora com eles."
+    },
+    {
+      "sentence": "I love my sister.",
+      "translation": "Eu amo minha irmã."
+    },
+    {
+      "sentence": "Our uncle is very funny.",
+      "translation": "Nosso tio é muito engraçado."
+    }
+  ]
+}

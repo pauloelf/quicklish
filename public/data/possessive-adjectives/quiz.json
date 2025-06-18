@@ -1,0 +1,94 @@
+{
+  "quiz": [
+    {
+      "question": "Qual adjetivo possessivo usamos com 'I'?",
+      "options": [
+        "mine",
+        "my",
+        "me"
+      ],
+      "answer": "my"
+    },
+    {
+      "question": "Complete: 'She has a dog. ___ dog is small.'",
+      "options": [
+        "Her",
+        "Hers",
+        "She"
+      ],
+      "answer": "Her"
+    },
+    {
+      "question": "Traduza: 'Nosso carro é azul.'",
+      "options": [
+        "Our car is blue",
+        "We car is blue",
+        "Ours car is blue"
+      ],
+      "answer": "Our car is blue"
+    },
+    {
+      "question": "Qual está correta?",
+      "options": [
+        "This is their house.",
+        "This is theirs house.",
+        "This is they house."
+      ],
+      "answer": "This is their house."
+    },
+    {
+      "question": "Qual adjetivo possessivo representa 'ele'?",
+      "options": [
+        "he",
+        "his",
+        "him"
+      ],
+      "answer": "his"
+    },
+    {
+      "question": "Complete: 'These are ___ books.' (Eles)",
+      "options": [
+        "their",
+        "them",
+        "they"
+      ],
+      "answer": "their"
+    },
+    {
+      "question": "Traduza: 'Minha irmã se chama Ana.'",
+      "options": [
+        "My sister's name is Ana",
+        "Mine sister is Ana",
+        "Me sister name is Ana"
+      ],
+      "answer": "My sister's name is Ana"
+    },
+    {
+      "question": "Qual a forma correta?",
+      "options": [
+        "This is our dog.",
+        "This is ours dog.",
+        "This is we dog."
+      ],
+      "answer": "This is our dog."
+    },
+    {
+      "question": "Complete: '___ name is Lucy.' (Ela)",
+      "options": [
+        "Her",
+        "Hers",
+        "She"
+      ],
+      "answer": "Her"
+    },
+    {
+      "question": "Qual adjetivo possessivo usamos com 'you'?",
+      "options": [
+        "your",
+        "yours",
+        "you"
+      ],
+      "answer": "your"
+    }
+  ]
+}

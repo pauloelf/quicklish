@@ -1,0 +1,45 @@
+{
+  "title": "Question Words (Palavras Interrogativas)",
+  "summary": "As question words são usadas para fazer perguntas específicas em inglês. Cada palavra tem um objetivo diferente e ajuda a obter diferentes tipos de informação.",
+  "structure": {
+    "what": "O que / Qual",
+    "where": "Onde",
+    "when": "Quando",
+    "who": "Quem",
+    "why": "Por quê",
+    "how": "Como",
+    "which": "Qual (entre opções)",
+    "how many": "Quantos (contável)",
+    "how much": "Quanto (incontável)"
+  },
+  "usage": [
+    "Usamos 'what' para perguntar sobre coisas: What is your name? (Qual é o seu nome?)",
+    "Usamos 'where' para perguntar sobre lugares: Where do you live? (Onde você mora?)",
+    "Usamos 'when' para perguntar sobre tempo: When is your birthday? (Quando é seu aniversário?)",
+    "Usamos 'who' para perguntar sobre pessoas: Who is she? (Quem é ela?)",
+    "Usamos 'why' para perguntar sobre razões: Why are you sad? (Por que você está triste?)",
+    "Usamos 'how' para perguntar sobre maneiras, estados ou quantidade: How are you? (Como você está?)"
+  ],
+  "examples": [
+    {
+      "sentence": "What is your favorite color?",
+      "translation": "Qual é a sua cor favorita?"
+    },
+    {
+      "sentence": "Where is the bathroom?",
+      "translation": "Onde fica o banheiro?"
+    },
+    {
+      "sentence": "When do you study?",
+      "translation": "Quando você estuda?"
+    },
+    {
+      "sentence": "Who is at the door?",
+      "translation": "Quem está na porta?"
+    },
+    {
+      "sentence": "Why are you late?",
+      "translation": "Por que você está atrasado?"
+    }
+  ]
+}

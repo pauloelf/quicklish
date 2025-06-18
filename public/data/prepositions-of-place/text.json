@@ -1,0 +1,40 @@
+{
+  "title": "Prepositions of Place (Preposições de Lugar)",
+  "summary": "As preposições de lugar são usadas para indicar onde algo está localizado em relação a outro objeto. Elas são fundamentais para descrever posições no espaço.",
+  "structure": {
+    "in": "Dentro de – The book is in the bag. (O livro está dentro da bolsa.)",
+    "on": "Em cima de (com contato) – The phone is on the table. (O telefone está na mesa.)",
+    "under": "Debaixo de – The cat is under the chair. (O gato está debaixo da cadeira.)",
+    "next to": "Ao lado de – The school is next to the park. (A escola fica ao lado do parque.)",
+    "behind": "Atrás de – The car is behind the house. (O carro está atrás da casa.)",
+    "in front of": "Na frente de – The store is in front of the bank. (A loja fica na frente do banco.)",
+    "between": "Entre (duas coisas) – The lamp is between the chairs. (O abajur está entre as cadeiras.)"
+  },
+  "usage": [
+    "Use preposições de lugar para descrever onde algo está.",
+    "Geralmente vêm após o verbo 'to be': The keys are on the table.",
+    "Elas ajudam a dar instruções e a descrever ambientes de forma clara."
+  ],
+  "examples": [
+    {
+      "sentence": "The cat is on the sofa.",
+      "translation": "O gato está no sofá."
+    },
+    {
+      "sentence": "The book is under the table.",
+      "translation": "O livro está debaixo da mesa."
+    },
+    {
+      "sentence": "The car is in the garage.",
+      "translation": "O carro está na garagem."
+    },
+    {
+      "sentence": "The school is next to the hospital.",
+      "translation": "A escola fica ao lado do hospital."
+    },
+    {
+      "sentence": "The dog is between the chairs.",
+      "translation": "O cachorro está entre as cadeiras."
+    }
+  ]
+}

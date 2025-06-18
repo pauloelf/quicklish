@@ -1,0 +1,35 @@
+{
+  "title": "Can / Can’t (Habilidade e Permissão)",
+  "summary": "Usamos 'can' para falar sobre habilidades que alguém tem ou para pedir/permissão. 'Can’t' (cannot) indica que algo não é possível ou permitido.",
+  "structure": {
+    "can": "Usado para expressar habilidade ou possibilidade. Ex: I can swim. (Eu sei nadar.)",
+    "can’t": "Usado para expressar impossibilidade ou proibição. Ex: She can’t drive. (Ela não sabe dirigir.)"
+  },
+  "usage": [
+    "Para perguntar sobre habilidade: Can you play the piano? (Você sabe tocar piano?)",
+    "Para pedir permissão: Can I open the window? (Posso abrir a janela?)",
+    "Para negar: I can’t come to the party. (Eu não posso ir à festa.)"
+  ],
+  "examples": [
+    {
+      "sentence": "I can speak English.",
+      "translation": "Eu sei falar inglês."
+    },
+    {
+      "sentence": "He can’t eat peanuts.",
+      "translation": "Ele não pode comer amendoim."
+    },
+    {
+      "sentence": "Can you help me?",
+      "translation": "Você pode me ajudar?"
+    },
+    {
+      "sentence": "She can run fast.",
+      "translation": "Ela corre rápido."
+    },
+    {
+      "sentence": "We can’t find the keys.",
+      "translation": "Nós não conseguimos encontrar as chaves."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Verb To Be (Verbo Ser/Estar)",
+  "summary": "O verbo 'to be' é um dos mais importantes em inglês. Ele significa 'ser' ou 'estar', e varia conforme o sujeito da frase.",
+  "structure": {
+    "affirmative": "I am, You are, He/She/It is, We are, They are",
+    "negative": "I am not, You are not (aren’t), He/She/It is not (isn’t)...",
+    "interrogative": "Am I?, Are you?, Is he/she/it?, Are we?, Are they?"
+  },
+  "usage": [
+    "Para descrever identidade: I am a student. (Eu sou um estudante.)",
+    "Para falar sobre estados ou emoções: She is happy. (Ela está feliz.)",
+    "Para indicar localização: They are at home. (Eles estão em casa.)"
+  ],
+  "examples": [
+    {
+      "sentence": "I am a teacher.",
+      "translation": "Eu sou um professor."
+    },
+    {
+      "sentence": "He is tired.",
+      "translation": "Ele está cansado."
+    },
+    {
+      "sentence": "They are in the park.",
+      "translation": "Eles estão no parque."
+    },
+    {
+      "sentence": "She is not sad.",
+      "translation": "Ela não está triste."
+    },
+    {
+      "sentence": "Are you ready?",
+      "translation": "Você está pronto?"
+    }
+  ]
+}

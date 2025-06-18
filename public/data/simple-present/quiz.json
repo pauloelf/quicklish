@@ -1,0 +1,94 @@
+{
+  "quiz": [
+    {
+      "question": "Qual a forma correta para “Eu trabalho”?",
+      "options": [
+        "I work",
+        "I works",
+        "I working"
+      ],
+      "answer": "I work"
+    },
+    {
+      "question": "Complete: “She ___ (play) football every Sunday.”",
+      "options": [
+        "play",
+        "plays",
+        "playing"
+      ],
+      "answer": "plays"
+    },
+    {
+      "question": "Como se forma uma frase negativa no Present Simple?",
+      "options": [
+        "Sujeito + do/does + not + verbo base",
+        "Sujeito + verbo + not",
+        "Sujeito + am/is/are + not + verbo"
+      ],
+      "answer": "Sujeito + do/does + not + verbo base"
+    },
+    {
+      "question": "Complete: “___ you like pizza?”",
+      "options": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "answer": "Do"
+    },
+    {
+      "question": "Qual a tradução de “Ele trabalha em um banco”?",
+      "options": [
+        "He works at a bank",
+        "He work at a bank",
+        "He working at a bank"
+      ],
+      "answer": "He works at a bank"
+    },
+    {
+      "question": "Qual a forma correta para “Ela não gosta de café”?",
+      "options": [
+        "She don’t like coffee",
+        "She does not like coffee",
+        "She not likes coffee"
+      ],
+      "answer": "She does not like coffee"
+    },
+    {
+      "question": "Complete a pergunta: “___ he speak English?”",
+      "options": [
+        "Do",
+        "Does",
+        "Is"
+      ],
+      "answer": "Does"
+    },
+    {
+      "question": "Quando usamos o Present Simple?",
+      "options": [
+        "Para ações habituais e fatos gerais",
+        "Para ações acontecendo agora",
+        "Para ações futuras"
+      ],
+      "answer": "Para ações habituais e fatos gerais"
+    },
+    {
+      "question": "Complete: “They ___ (go) to school every day.”",
+      "options": [
+        "go",
+        "goes",
+        "going"
+      ],
+      "answer": "go"
+    },
+    {
+      "question": "Qual a forma correta de “Nós não estudamos francês”?",
+      "options": [
+        "We don’t study French",
+        "We doesn’t study French",
+        "We not study French"
+      ],
+      "answer": "We don’t study French"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "quiz": [
+    {
+      "question": "Qual palavra usamos para perguntar sobre lugares?",
+      "options": [
+        "When",
+        "Where",
+        "What"
+      ],
+      "answer": "Where"
+    },
+    {
+      "question": "Complete: '___ is your teacher?'",
+      "options": [
+        "Who",
+        "What",
+        "Why"
+      ],
+      "answer": "Who"
+    },
+    {
+      "question": "Qual a tradução de 'Why are you crying?'",
+      "options": [
+        "Onde você está chorando?",
+        "Por que você está chorando?",
+        "Como você está chorando?"
+      ],
+      "answer": "Por que você está chorando?"
+    },
+    {
+      "question": "Quando usamos 'how many'?",
+      "options": [
+        "Para perguntar sobre tempo",
+        "Para perguntar sobre quantidade contável",
+        "Para perguntar sobre razões"
+      ],
+      "answer": "Para perguntar sobre quantidade contável"
+    },
+    {
+      "question": "Qual a tradução de 'When is your class?'",
+      "options": [
+        "O que é sua aula?",
+        "Onde é sua aula?",
+        "Quando é sua aula?"
+      ],
+      "answer": "Quando é sua aula?"
+    },
+    {
+      "question": "Complete: '___ do you go to school?' (Quando)",
+      "options": [
+        "Where",
+        "When",
+        "Why"
+      ],
+      "answer": "When"
+    },
+    {
+      "question": "Qual está correta?",
+      "options": [
+        "How are you?",
+        "How you are?",
+        "Are how you?"
+      ],
+      "answer": "How are you?"
+    },
+    {
+      "question": "Qual palavra interrogativa usamos para 'quanto dinheiro'?",
+      "options": [
+        "How many",
+        "How much",
+        "What money"
+      ],
+      "answer": "How much"
+    },
+    {
+      "question": "Complete: '___ color do you like?'",
+      "options": [
+        "Which",
+        "What",
+        "Where"
+      ],
+      "answer": "What"
+    },
+    {
+      "question": "Qual a função da palavra 'Which'?",
+      "options": [
+        "Perguntar sobre lugares",
+        "Escolher entre opções",
+        "Indicar motivo"
+      ],
+      "answer": "Escolher entre opções"
+    }
+  ]
+}

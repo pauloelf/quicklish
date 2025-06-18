@@ -1,0 +1,45 @@
+{
+  "title": "There is / There are (Há / Existe / Existem)",
+  "summary": "Usamos 'there is' e 'there are' para indicar a existência ou presença de algo em um lugar. A escolha entre os dois depende do número de itens: singular ou plural.",
+  "structure": {
+    "affirmative": {
+      "singular": "There is a book on the table. (Há um livro na mesa.)",
+      "plural": "There are books on the table. (Há livros na mesa.)"
+    },
+    "negative": {
+      "singular": "There is not (isn't) a cat here.",
+      "plural": "There are not (aren’t) any cats here."
+    },
+    "interrogative": {
+      "singular": "Is there a problem?",
+      "plural": "Are there any questions?"
+    }
+  },
+  "usage": [
+    "Para apresentar objetos ou pessoas em um lugar: There is a pen on the desk. (Há uma caneta na mesa.)",
+    "Para descrever ambientes, lugares e cenas: There are many people at the party. (Há muitas pessoas na festa.)",
+    "Para iniciar uma frase falando da existência de algo."
+  ],
+  "examples": [
+    {
+      "sentence": "There is a dog in the yard.",
+      "translation": "Há um cachorro no quintal."
+    },
+    {
+      "sentence": "There are five apples on the table.",
+      "translation": "Há cinco maçãs na mesa."
+    },
+    {
+      "sentence": "Is there a hospital nearby?",
+      "translation": "Existe um hospital por perto?"
+    },
+    {
+      "sentence": "There isn't any milk in the fridge.",
+      "translation": "Não há leite na geladeira."
+    },
+    {
+      "sentence": "Are there any students in the room?",
+      "translation": "Há estudantes na sala?"
+    }
+  ]
+}
