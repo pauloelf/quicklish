@@ -1,9 +1,22 @@
-function App() {
+import { useState } from "react";
+import { Reading } from "./components/reading";
+import { Header } from "./components/header";
+import type { TabValues } from "./types/tabs";
+import { Quizzes } from "./components/quizzes";
+
+export default function App() {
+  const [activeTab, setActiveTab] = useState<TabValues>("reading");
+
   return (
     <>
-      <h1>Teste</h1>
+      <Header activeTab={activeTab} setActiveTab={setActiveTab} />
+      <main
+        aria-label={`Conteúdo Principal: ${
+          activeTab === "reading" ? "Leitura" : "Exercícios"
+        }`}
+      >
+        {activeTab === "reading" ? <Reading /> : <Quizzes />}
+      </main>
     </>
   );
 }
-
-export default App;
