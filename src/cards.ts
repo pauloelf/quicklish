@@ -1,4 +1,4 @@
-import type { CardType } from "@/types/Cards";
+import type { CardType } from "@/types/cards";
 
 export const cards: CardType[] = [
   {
@@ -59,6 +59,6 @@ export const cards: CardType[] = [
     id: 10,
     title: "Present Simple",
     description: "Presente Simples",
-    href: "/present-simple",
+    href: "/simple-present",
   },
 ];

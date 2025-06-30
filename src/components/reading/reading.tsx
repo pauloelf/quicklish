@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import { cards } from "@/cards";
-import { Card } from "./card";
+import { Card } from "@/components/card";
 
 const cardsVariants = {
   hidden: { opacity: 0 },

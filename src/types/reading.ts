@@ -6,7 +6,7 @@ export type ExampleType = {
 export type TopicType = {
   title: string;
   summary: string;
-  structure: Record<string, string>;
+  structure: Record<string, { singular: string; plural: string } | string>;
   usage: string[];
   examples: ExampleType[];
 };

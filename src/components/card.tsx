@@ -1,5 +1,5 @@
+import type { CardType } from "@/types/cards";
 import { motion } from "motion/react";
-import type { CardType } from "@/types/Cards";
 import { Link } from "react-router";
 
 const cardVariants = {
