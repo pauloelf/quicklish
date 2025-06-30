@@ -1,0 +1,46 @@
+.not-found {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  & .title {
+    font-size: 6rem;
+    color: var(--primary);
+  }
+
+  & .sub-title {
+    font-size: 2.5rem;
+    color: white;
+    margin: 0 0 0.5rem 0;
+  }
+
+  & .description {
+    max-width: 600px;
+    margin: 0 0 1.5rem 0;
+  }
+
+  & .button {
+    display: inline-block;
+    background-color: color-mix(in srgb, var(--primary), transparent 30%);
+    color: var(--primary-foreground);
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.6s ease;
+    cursor: pointer;
+    border: none;
+
+    &:hover {
+      background-color: var(--primary);
+    }
+
+    &:focus-visible {
+      outline: none;
+      box-shadow: var(--shadow-lg);
+      background-color: var(--primary);
+    }
+  }
+}
