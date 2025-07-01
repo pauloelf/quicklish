@@ -2,6 +2,7 @@ import type { TopicType } from "@/types/reading";
 import { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router";
 import { ReadingItem } from "@/components/reading";
+import { ReadingProgress } from "@/components/reading/reading-progress";
 
 export default function ReadingPage() {
   const [data, setData] = useState<TopicType | null>(null);
@@ -19,10 +20,11 @@ export default function ReadingPage() {
     fetchData();
   }, [id]);
 
-  if (error) navigate("not-found");
+  if (error) navigate("/not-found");
   if (!data) return <p>Carregando...</p>;
   return (
     <main aria-label={`Conteúdo Principal: ${data?.title}`}>
+      <ReadingProgress />
       <ReadingItem data={data} />
     </main>
   );
