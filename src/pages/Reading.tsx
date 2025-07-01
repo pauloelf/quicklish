@@ -12,7 +12,7 @@ export default function ReadingPage() {
 
   useEffect(() => {
     const fetchData = () => {
-      fetch(`/data/${id}/text.json`)
+      fetch(`/data/${id}/text.json`, { cache: "force-cache" })
         .then((res) => res.json())
         .then((json) => setData(json))
         .catch(() => setError(true));
