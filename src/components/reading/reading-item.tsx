@@ -1,5 +1,5 @@
-import { useNavigate } from "react-router";
-import { SquareArrowLeft } from "lucide-react";
+import { Link, useNavigate, useParams } from "react-router";
+import { ArrowRight, SquareArrowLeft } from "lucide-react";
 import type { TopicType } from "@/types/reading";
 
 interface IReadingItem {
@@ -8,6 +8,7 @@ interface IReadingItem {
 
 export function ReadingItem({ data }: IReadingItem) {
   const navigate = useNavigate();
+  const { id } = useParams<{ id: string }>();
 
   if (!data) return;
   return (
@@ -127,6 +128,10 @@ export function ReadingItem({ data }: IReadingItem) {
           ))}
         </ul>
       </section>
+      <Link to={`/${id}/quiz`} className="btn-to-quiz">
+        <span>Iniciar Exercício</span>
+        <ArrowRight size={20} />
+      </Link>
     </article>
   );
 }

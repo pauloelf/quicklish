@@ -161,6 +161,28 @@
   }
 }
 
+.btn-to-quiz {
+  display: inline-flex;
+  align-self: center;
+  gap: 0.25rem;
+  background-color: color-mix(in srgb, var(--primary), transparent 30%);
+  color: var(--primary-foreground);
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.6s ease;
+
+  &:hover {
+    background-color: var(--primary);
+  }
+
+  &:focus-visible {
+    outline: none;
+    box-shadow: var(--shadow-lg);
+    background-color: var(--primary);
+  }
+}
+
 @media only screen and (max-width: 600px) {
   .reading-item {
     padding: 1.5rem 1rem;
