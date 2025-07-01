@@ -9,6 +9,7 @@ const variants = {
     opacity: 1,
     transition: {
       staggerChildren: 0.2,
+      duration: 0.6,
     },
   },
 };
