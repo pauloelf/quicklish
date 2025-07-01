@@ -1,8 +1,7 @@
 import type { TopicType } from "@/types/reading";
 import { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router";
-import { ReadingItem } from "@/components/reading";
-import { ReadingProgress } from "@/components/reading/reading-progress";
+import { ReadingItem, ReadingProgress } from "@/components/reading";
 
 export default function ReadingPage() {
   const [data, setData] = useState<TopicType | null>(null);

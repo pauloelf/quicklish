@@ -1,8 +1,7 @@
 import { useState } from "react";
-import { Reading } from "@/components/reading";
+import { Reading, Quizzes } from "@/components/home";
 import { Header } from "@/components/header";
 import type { TabValues } from "@/types/tabs";
-import { Quizzes } from "@/components/quizzes";
 
 export default function HomePage() {
   const [activeTab, setActiveTab] = useState<TabValues>("reading");

@@ -1,2 +1,2 @@
-export { Reading } from "./reading";
 export { ReadingItem } from "./reading-item";
+export { ReadingProgress } from "./reading-progress";
