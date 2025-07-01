@@ -1,6 +1,22 @@
 import { Link, useNavigate, useParams } from "react-router";
 import { ArrowRight, SquareArrowLeft } from "lucide-react";
 import type { TopicType } from "@/types/reading";
+import { motion } from "motion/react";
+
+const variants = {
+  hidden: { opacity: 0 },
+  show: {
+    opacity: 1,
+    transition: {
+      staggerChildren: 0.2,
+    },
+  },
+};
+
+const subVariants = {
+  hidden: { opacity: 0, y: -20 },
+  show: { opacity: 1, y: 0 },
+};
 
 interface IReadingItem {
   data: TopicType | null;
@@ -12,22 +28,30 @@ export function ReadingItem({ data }: IReadingItem) {
 
   if (!data) return;
   return (
-    <article
+    <motion.article
+      variants={variants}
+      initial="hidden"
+      animate="show"
       className="reading-item"
       aria-label={`Card de leitura sobre: ${data.title}`}
     >
-      <button
+      <motion.button
         className="button-back"
         aria-label="Voltar para página principal"
         onClick={() => navigate("/")}
       >
         <SquareArrowLeft size={40} />
-      </button>
-      <section className="reading-item-info" aria-labelledby="reading-info">
+      </motion.button>
+      <motion.section
+        variants={subVariants}
+        className="reading-item-info"
+        aria-labelledby="reading-info"
+      >
         <h1 id="reading-info">{data.title}</h1>
         <p aria-label={data.summary}>{data.summary}</p>
-      </section>
-      <section
+      </motion.section>
+      <motion.section
+        variants={subVariants}
         className="reading-item-structure"
         aria-labelledby="reading-structure"
       >
@@ -72,8 +96,12 @@ export function ReadingItem({ data }: IReadingItem) {
             );
           })}
         </div>
-      </section>
-      <section className="reading-item-usage" aria-labelledby="reading-usage">
+      </motion.section>
+      <motion.section
+        variants={subVariants}
+        className="reading-item-usage"
+        aria-labelledby="reading-usage"
+      >
         <h3 id="reading-usage">Como Usar</h3>
         <ul
           className="reading-item-usage-items"
@@ -90,8 +118,9 @@ export function ReadingItem({ data }: IReadingItem) {
             </li>
           ))}
         </ul>
-      </section>
-      <section
+      </motion.section>
+      <motion.section
+        variants={subVariants}
         className="reading-item-examples"
         aria-labelledby="reading-examples"
       >
@@ -127,11 +156,13 @@ export function ReadingItem({ data }: IReadingItem) {
             </li>
           ))}
         </ul>
-      </section>
-      <Link to={`/${id}/quiz`} className="btn-to-quiz">
-        <span>Iniciar Exercício</span>
-        <ArrowRight size={20} />
-      </Link>
-    </article>
+      </motion.section>
+      <motion.div variants={subVariants} className="btn-to-quiz">
+        <Link to={`/${id}/quiz`}>
+          <span>Iniciar Exercício</span>
+          <ArrowRight size={20} />
+        </Link>
+      </motion.div>
+    </motion.article>
   );
 }
