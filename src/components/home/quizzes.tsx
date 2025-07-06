@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import { cards } from "@/cards";
+import { cards } from "@/cards-data";
 import { Card } from "@/components/card";
 
 const cardsVariants = {
