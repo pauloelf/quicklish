@@ -3,7 +3,7 @@
 Este repositório contém o código-fonte do projeto **Quicklish**, uma aplicação voltada para o aprendizado básico de inglês, com foco em aprendizado rápido e visual.
 
 🔗 **Leia o post completo sobre este projeto:**  
-[Quicklish — Cards de vocabulário com palavras em inglês](https://commit-blog-paulodev.vercel.app/topicos/quicklish-aprendizado-basico-de-ingles)
+[Quicklish — Aprendizado básico de inglês](https://commit-blog-paulodev.vercel.app/topicos/quicklish-aprendizado-basico-de-ingles)
 
 ## Sobre o projeto
 
